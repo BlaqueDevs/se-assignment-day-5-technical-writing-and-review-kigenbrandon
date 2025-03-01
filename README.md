@@ -2,6 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18472135&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+Understanding your audience's expertise level shapes how you present technical information. For **tech experts**, you can use specialized language, delve into details, and present complex structures. For **regular folks**, you should simplify the language, focus on high-level concepts, and use relatable examples. Visuals should be more technical for experts and simpler for non-experts, and engagement methods should be more interactive for experts, while focused on clarity and relatability for regular folks. The goal is to adjust the complexity based on their familiarity with the subject.
 ## 2. What are some strategies to tailor your content to different audience types?
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
